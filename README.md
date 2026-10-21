@@ -1,2 +1,2 @@
 # GOGOL
-gogol: the chevron.
+gogol: the greatest chevron of all time.
